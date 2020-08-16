@@ -11,7 +11,7 @@ Each card SHOULD be able to function within the deck i.e. rituals will have thei
 Further instructions are given if you read the "About" section of the program, but I'll say it anyway:
 
 - pick GDG.jar or GDG.exe
-- put in your EDOPRO "deck" folder
+- put it in your EDOPRO "deck" folder
 - double click it
 - click on "Make a random deck!"
 - done!
