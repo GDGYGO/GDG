@@ -17,5 +17,7 @@ Further instructions are given if you read the "About" section of the program, b
 - done!
 
 GDG.exe is there if you can't run the Jar. There's no actual difference between the two.
+
 If you can't run either of them, I suggest you download the latest version of java here https://www.java.com/en/download/ .
+
 If you have other problems/inquiries, send me a mail at GDGYGO@gmail.com.
