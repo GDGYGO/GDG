@@ -1,7 +1,9 @@
 # Generic Deck Generator - GDG
 
 This is a Generic Deck Generator for EDOPRO/YGOPRO. 
+
 It starts from a pool of "generic" cards that don't belong to any archetype (or if they do, they aren't strictly dependant on it) and generates a deck.
+
 Each card SHOULD be able to function within the deck i.e. rituals will have their spell, exodia will have its pieces, etc.
 
 # Instructions
