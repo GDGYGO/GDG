@@ -20,4 +20,4 @@ There's no actual difference between GDG.jar and GDG.exe besides .exe having a c
 
 If you can't run either of them, I suggest you download the latest version of java here https://www.java.com/en/download/ .
 
-If you have other problems/inquiries, send me a mail at GDGYGO@gmail.com.
+If you have other problems/inquiries, send me a mail at gdgygo@gmail.com.
