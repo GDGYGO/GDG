@@ -16,7 +16,7 @@ Further instructions are given if you read the "About" section of the program, b
 - click on "Make a random deck!"
 - done!
 
-There's no actual difference between GDG.jar and GDG.exe besides a cute icon.
+There's no actual difference between GDG.jar and GDG.exe besides .exe having a cute icon.
 
 If you can't run either of them, I suggest you download the latest version of java here https://www.java.com/en/download/ .
 
