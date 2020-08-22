@@ -1,6 +1,6 @@
 # Generic Deck Generator - GDG
 
-This is a Generic Deck Generator for EDOPRO/YGOPRO. 
+This is a Generic Deck Generator for EDOPRO/YGOPRO (or anything else compatible with .ydk files).
 
 It starts from a pool of "generic" cards that don't belong to any archetype (or if they do, they aren't strictly dependant on it) and generates a deck.
 
